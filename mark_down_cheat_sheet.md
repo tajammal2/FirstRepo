@@ -7,7 +7,7 @@ How to give headings in Mark Down
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
-
+ 
 # 2- Block of words
 This is a normal text of Markdown.
 > This is a special text in Markdown.
